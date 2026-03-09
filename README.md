@@ -6,7 +6,7 @@ Este repositório contém a solução para o desafio técnico de automação de 
 
 Confira a explicação técnica detalhada do fluxo e a resolução do "Desafio Oculto" na demonstração em vídeo disponível no repositório.
 
-https://drive.google.com/file/d/1imwbVteBwdnIQUMToLYf-9dKis_AbXvf/view?usp=sharing
+https://www.loom.com/share/5a0b13d0513b48e58ca4c5f47d980844
 
 ## 🛠️ Tecnologias Utilizadas
 
